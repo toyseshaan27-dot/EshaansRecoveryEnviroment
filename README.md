@@ -3,3 +3,4 @@ System Requirements are the requirements for Win11 IOT.
 You Need a Minimum of 30 GIB of storage for this.
 Email Me to add programs to this Enviroment.
 DO NOT EXPECT MUCH FROM THIS!! I USE MY FREE TIME FOR THIS!
+When you boot, it auto logs in and you get a for dos mode or graphical mode. DOS mode is just command prompt running as SYSTEM. and the grphical mode is normal win11.
